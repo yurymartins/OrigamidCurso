@@ -13,7 +13,7 @@ Repositório para postagem e armazenamento dos exercícios e projetos do curso d
 ![image](https://user-images.githubusercontent.com/102985050/217962479-ace27c82-326c-4769-be65-fd82cee24c2c.png)
 * HTML e CSS para Iniciantes
 
-![](https://geps.dev/progress/21)
+![](https://geps.dev/progress/24)
 
 ![image](https://user-images.githubusercontent.com/102985050/217962513-09ed7a84-9170-4233-be3a-d7f2b5aecfe9.png)
 * CSS Flexbox
