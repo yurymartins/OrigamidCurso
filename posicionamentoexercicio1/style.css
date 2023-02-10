@@ -1,0 +1,13 @@
+:root {
+  --gray-bg: #f7f7f7;
+  --gray-content: #c6c6c6;
+  --red: #ee2211;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-size: 20px;
+}
