@@ -12,7 +12,7 @@ Repositório para postagem e armazenamento dos exercícios e projetos do curso d
 |03 UI Design|✔️|
 |04 Interfaces Digitais|✔️|
 |05 Projeto Pessoal|✔️|
-|06 UX Design||
+|06 UX Design|✔️|
 |07 Wireframe||
 |08 Protótipo||
 |09 Conclusão||
