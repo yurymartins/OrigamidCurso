@@ -3,7 +3,7 @@
 Repositório para postagem e armazenamento dos exercícios e projetos do curso de Front End Origamid. Abaixo os cursos disponibilizados na plataforma e taxa de conclusão:
 
 ![image](https://user-images.githubusercontent.com/102985050/217962427-2baffe3f-ec19-4bcd-977c-103c78ef1a00.png)
-* UI Design para Iniciantes ![](https://geps.dev/progress/78)
+* UI Design para Iniciantes ![](https://geps.dev/progress/100)
 
 | Curso | Status|
 |---|---|
@@ -14,8 +14,8 @@ Repositório para postagem e armazenamento dos exercícios e projetos do curso d
 |05 Projeto Pessoal|✔️|
 |06 UX Design|✔️|
 |07 Wireframe|✔️|
-|08 Protótipo||
-|09 Conclusão||
+|08 Protótipo|✔️|
+|09 Conclusão|✔️|
 
 ![image](https://user-images.githubusercontent.com/102985050/217962479-ace27c82-326c-4769-be65-fd82cee24c2c.png)
 * HTML e CSS para Iniciantes ![](https://geps.dev/progress/52)
