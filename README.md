@@ -18,7 +18,7 @@ Repositório para postagem e armazenamento dos exercícios e projetos do curso d
 |09 Conclusão|✔️|
 
 ![image](https://user-images.githubusercontent.com/102985050/217962479-ace27c82-326c-4769-be65-fd82cee24c2c.png)
-* HTML e CSS para Iniciantes ![](https://geps.dev/progress/52)
+* HTML e CSS para Iniciantes ![](https://geps.dev/progress/60)
 
 | Curso | Status   |
 |---|---|
