@@ -59,11 +59,11 @@ Repositório para postagem e armazenamento dos exercícios e projetos do curso d
 |05 Considerações Finais   |   |
 
 ![image](https://user-images.githubusercontent.com/102985050/217962531-55556040-8fec-4c0c-b4a6-701c26fc08b8.png)
-* UI Design Avançado ![](https://geps.dev/progress/0)
+* UI Design Avançado ![](https://geps.dev/progress/13)
 
 | Curso | Status   |
 |---|---|
-|01 UI Design Avançado|   |
+|01 UI Design Avançado|✔️|
 |02 Elementos da Interface|   |
 |03 Cores em Interfaces|   |
 |04 Tipografia em Interfaces|   |
