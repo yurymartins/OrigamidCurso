@@ -38,14 +38,14 @@ Repositório para postagem e armazenamento dos exercícios e projetos do curso d
 |14 Considerações Finais||
 
 ![image](https://user-images.githubusercontent.com/102985050/217962513-09ed7a84-9170-4233-be3a-d7f2b5aecfe9.png)
-* CSS Flexbox ![](https://geps.dev/progress/57)
+* CSS Flexbox ![](https://geps.dev/progress/10)
 
 | Curso | Status   |
 |---|---|
 |01 CSS Flexbox|✔️|
 |02 Fundamentos do Flexbox|✔️|
-|03 FlexBlog|   |
-|04 Considerações Finais   |   |
+|03 FlexBlog|✔️|
+|04 Considerações Finais|✔️|
 
 ![image](https://user-images.githubusercontent.com/102985050/217962525-cd9a6966-53fd-4b97-9f8c-e67dd32d4fcf.png)
 * CSS Grid Layout ![](https://geps.dev/progress/0)
