@@ -38,7 +38,7 @@ Repositório para postagem e armazenamento dos exercícios e projetos do curso d
 |14 Considerações Finais||
 
 ![image](https://user-images.githubusercontent.com/102985050/217962513-09ed7a84-9170-4233-be3a-d7f2b5aecfe9.png)
-* CSS Flexbox ![](https://geps.dev/progress/10)
+* CSS Flexbox ![](https://geps.dev/progress/100)
 
 | Curso | Status   |
 |---|---|
