@@ -48,15 +48,15 @@ Repositório para postagem e armazenamento dos exercícios e projetos do curso d
 |04 Considerações Finais|✔️|
 
 ![image](https://user-images.githubusercontent.com/102985050/217962525-cd9a6966-53fd-4b97-9f8c-e67dd32d4fcf.png)
-* CSS Grid Layout ![](https://geps.dev/progress/48)
+* CSS Grid Layout ![](https://geps.dev/progress/100)
 
 | Curso | Status   |
 |---|---|
 |01 CSS Grid Layout   |✔️|
 |02 Grid Layout Container   |✔️|
-|03 Grid Layout Item   |   |
-|04 Projeto Wildbeast   |   |
-|05 Considerações Finais   |   |
+|03 Grid Layout Item   |✔️|
+|04 Projeto Wildbeast   |✔️|
+|05 Considerações Finais   |✔️|
 
 ![image](https://user-images.githubusercontent.com/102985050/217962531-55556040-8fec-4c0c-b4a6-701c26fc08b8.png)
 * UI Design Avançado ![](https://geps.dev/progress/50)
